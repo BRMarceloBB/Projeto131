@@ -1,0 +1,17 @@
+body {
+    background-image: linear-gradient(to right top, #33a0f1, #c5dfef, #cde3ef, #e2ecf2, #badded);
+}
+
+button {
+    width: 50%;
+    border-radius: 25px;
+    background-color: whitesmoke;
+}
+
+.heading
+{
+font-size: 23px;
+width: 100%;
+margin: 0px;
+height: 10%;
+}
